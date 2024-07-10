@@ -2,3 +2,4 @@ Project goal: to create a data analysis model to predict the number of requests 
 Open data source: The public portal of Barcelona https://opendata-ajuntament.barcelona.cat/
 Dataset source: https://opendata-ajuntament.barcelona.cat/data/en/dataset/terrasses-comercos-vigents
 Forecast assessment: Data from 2019 to 2023 inclusive will be analyzed. At the end of the project, a comparison of forecast data with historical data for the first half of 2024 will be presented.
+Project workbook: https://www.datacamp.com/datalab/w/20c20f89-1dea-4099-8de7-958e48e93467/edit
