@@ -1,14 +1,5 @@
-Project goal: to create a data analysis model to predict the number of requests for authorization of ordinary terraces in public places in the city of Barcelona
+##Project goal: to create a data analysis model to predict the number of requests for authorization of ordinary terraces in public places in the city of Barcelona
 Open data source: The public portal of Barcelona https://opendata-ajuntament.barcelona.cat/
 Dataset source: https://opendata-ajuntament.barcelona.cat/data/en/dataset/terrasses-comercos-vigents
-Forecast assessment: Data from 2019 to 2023 inclusive will be analyzed. At the end of the project, a comparison of forecast data with historical data for the first half of 2024 will be presented.
-Project workbook: https://www.datacamp.com/datalab/w/20c20f89-1dea-4099-8de7-958e48e93467/edit
 
-МЕТОД ЗА ЯКИМ БУДУ ПРОГНОЗУВАТИ:
-В датасетах є адреси терас, тому я зроблю адреси змінними, та буду досліджувати які змінні є в кожному датасеті. 
 
-ПРОБЛЕМИ ДАТАСЕТІВ:
-- дані в форматі object
-- є різниця в кількості колонок
-- датасет на іноземній мові - не всі назви колонок зрозумілі
-- не всі колонки потрібні для прогнозової моделі
